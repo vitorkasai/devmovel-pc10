@@ -1,0 +1,5 @@
+.idea
+.flutter-plugins
+.flutter-plugins-dependencies
+analysis_options.yaml
+.dart_tool
